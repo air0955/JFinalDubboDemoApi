@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Desktop/统一能力平台工程/jfinal框架资料/jfinal-1.9-all/jfinal-1.9-bin-with-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Desktop/统一能力平台工程/dubbo/电信支持部dubbo/dubbo-zq-helper-client-1.0.0/lib/dubbo-2.5.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
